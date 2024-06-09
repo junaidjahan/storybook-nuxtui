@@ -1,5 +1,5 @@
 <template>
-  <h1> Welcome Nuxt to Storybook  </h1>
+  <h1> Welcome Nuxt to Storybook and Nuxt UI  </h1>
   <NuxtWelcome />
 </template>
 
