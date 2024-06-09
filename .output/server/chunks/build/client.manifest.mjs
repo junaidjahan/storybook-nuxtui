@@ -4,7 +4,7 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "DHY7rs5e.js",
+    "file": "Dx3c7IqS.js",
     "name": "error-404",
     "src": "node_modules/.pnpm/@nuxt+ui-templates@1.3.4/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
     "isDynamicEntry": true,
@@ -12,33 +12,33 @@ const client_manifest = {
       "node_modules/.pnpm/nuxt@3.11.2_@opentelemetry+api@1.9.0_@parcel+watcher@2.4.1_@types+node@18.19.34_@unocss+reset_usmzuwo4nueyqwj6hjekjzfi44/node_modules/nuxt/dist/app/entry.js"
     ],
     "css": [
-      "error-404.CdHukpd0.css"
+      "error-404.Cs7Z0ZwI.css"
     ]
   },
-  "error-404.CdHukpd0.css": {
-    "file": "error-404.CdHukpd0.css",
+  "error-404.Cs7Z0ZwI.css": {
+    "file": "error-404.Cs7Z0ZwI.css",
     "resourceType": "style",
     "prefetch": true,
     "preload": true
   },
-  "node_modules/.pnpm/@nuxt+ui-templates@1.3.4/node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue": {
+  "node_modules/.pnpm/@nuxt+ui-templates@1.3.4/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "DqSvyhgN.js",
-    "name": "error-dev",
-    "src": "node_modules/.pnpm/@nuxt+ui-templates@1.3.4/node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue",
+    "file": "DMMbmIIS.js",
+    "name": "error-500",
+    "src": "node_modules/.pnpm/@nuxt+ui-templates@1.3.4/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue",
     "isDynamicEntry": true,
     "imports": [
       "node_modules/.pnpm/nuxt@3.11.2_@opentelemetry+api@1.9.0_@parcel+watcher@2.4.1_@types+node@18.19.34_@unocss+reset_usmzuwo4nueyqwj6hjekjzfi44/node_modules/nuxt/dist/app/entry.js"
     ],
     "css": [
-      "error-dev.Dm5sRse8.css"
+      "error-500.BY691cIp.css"
     ]
   },
-  "error-dev.Dm5sRse8.css": {
-    "file": "error-dev.Dm5sRse8.css",
+  "error-500.BY691cIp.css": {
+    "file": "error-500.BY691cIp.css",
     "resourceType": "style",
     "prefetch": true,
     "preload": true
@@ -48,7 +48,7 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "_JEuvkNi.js",
+    "file": "AOwrR9YT.js",
     "name": "IconCSS",
     "src": "node_modules/.pnpm/nuxt-icon@0.6.10_nuxt@3.11.2_@opentelemetry+api@1.9.0_@parcel+watcher@2.4.1_@types+node@18.19_xsumaxdn7scvkapysuz2jktctm/node_modules/nuxt-icon/dist/runtime/IconCSS.vue",
     "isDynamicEntry": true,
@@ -56,11 +56,11 @@ const client_manifest = {
       "node_modules/.pnpm/nuxt@3.11.2_@opentelemetry+api@1.9.0_@parcel+watcher@2.4.1_@types+node@18.19.34_@unocss+reset_usmzuwo4nueyqwj6hjekjzfi44/node_modules/nuxt/dist/app/entry.js"
     ],
     "css": [
-      "IconCSS.C_zNhBiB.css"
+      "IconCSS.DYlJJUXx.css"
     ]
   },
-  "IconCSS.C_zNhBiB.css": {
-    "file": "IconCSS.C_zNhBiB.css",
+  "IconCSS.DYlJJUXx.css": {
+    "file": "IconCSS.DYlJJUXx.css",
     "resourceType": "style",
     "prefetch": true,
     "preload": true
@@ -70,20 +70,20 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "lWXhrueH.js",
+    "file": "a6QubUB0.js",
     "name": "entry",
     "src": "node_modules/.pnpm/nuxt@3.11.2_@opentelemetry+api@1.9.0_@parcel+watcher@2.4.1_@types+node@18.19.34_@unocss+reset_usmzuwo4nueyqwj6hjekjzfi44/node_modules/nuxt/dist/app/entry.js",
     "isEntry": true,
     "dynamicImports": [
       "node_modules/.pnpm/@nuxt+ui-templates@1.3.4/node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
-      "node_modules/.pnpm/@nuxt+ui-templates@1.3.4/node_modules/@nuxt/ui-templates/dist/templates/error-dev.vue"
+      "node_modules/.pnpm/@nuxt+ui-templates@1.3.4/node_modules/@nuxt/ui-templates/dist/templates/error-500.vue"
     ],
     "css": [
-      "entry.i6yKAm71.css"
+      "entry.BcO-B0iv.css"
     ]
   },
-  "entry.i6yKAm71.css": {
-    "file": "entry.i6yKAm71.css",
+  "entry.BcO-B0iv.css": {
+    "file": "entry.BcO-B0iv.css",
     "resourceType": "style",
     "prefetch": true,
     "preload": true

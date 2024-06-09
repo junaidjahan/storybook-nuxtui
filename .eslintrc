@@ -1,9 +1,0 @@
-{
-    "plugins": ["nuxt"], // the same as "eslint-plugin-nuxt",
-    "rules": {
-        "nuxt/rule-name": 2
-    },
-    "extends": [
-        "@nuxt" // The same as @nuxt/eslint-config
-      ]
- }

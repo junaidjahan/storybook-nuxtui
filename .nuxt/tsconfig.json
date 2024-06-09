@@ -90,10 +90,10 @@
         "../node_modules/.pnpm/@nuxt+ui@2.16.0_focus-trap@7.5.4_nuxt@3.11.2_@opentelemetry+api@1.9.0_@parcel+watcher@2.4.1_@_4sjzhfxpsbefdca5nmdbex5nom/node_modules/@nuxt/ui/dist/runtime/*"
       ],
       "#ui-colors": [
-        "./ui.colors"
+        "./ui.colors.mjs"
       ],
       "#icon-collections": [
-        "./icon-collections"
+        "./icon-collections.mjs"
       ],
       "#color-mode-options": [
         "./color-mode-options.mjs"
@@ -107,11 +107,8 @@
       "#tailwind-config": [
         "./tailwind.config"
       ],
-      "#tailwind-config/*": [
-        "./tailwind.config/*"
-      ],
       "#app-manifest": [
-        "./manifest/meta/dev"
+        "./manifest/meta/b4a480e0-bb93-471b-9da9-e556a71dcde4.json"
       ],
       "#build": [
         "."

@@ -3,6 +3,9 @@
   <NuxtWelcome />
 </template>
 
+<script setup>
+</script>
+
 <style>
 .readmore {
     -webkit-text-size-adjust: 100%;

@@ -11,7 +11,6 @@ type NuxtAppInjections =
   InjectionType<typeof import("../../node_modules/.pnpm/nuxt@3.11.2_@opentelemetry+api@1.9.0_@parcel+watcher@2.4.1_@types+node@18.19.34_@unocss+reset_usmzuwo4nueyqwj6hjekjzfi44/node_modules/nuxt/dist/app/plugins/check-outdated-build.client").default> &
   InjectionType<typeof import("../../node_modules/.pnpm/nuxt@3.11.2_@opentelemetry+api@1.9.0_@parcel+watcher@2.4.1_@types+node@18.19.34_@unocss+reset_usmzuwo4nueyqwj6hjekjzfi44/node_modules/nuxt/dist/app/plugins/revive-payload.server").default> &
   InjectionType<typeof import("../../node_modules/.pnpm/nuxt@3.11.2_@opentelemetry+api@1.9.0_@parcel+watcher@2.4.1_@types+node@18.19.34_@unocss+reset_usmzuwo4nueyqwj6hjekjzfi44/node_modules/nuxt/dist/app/plugins/revive-payload.client").default> &
-  InjectionType<typeof import("../../node_modules/.pnpm/@storybook-vue+nuxt@0.2.6_@types+node@18.19.34_encoding@0.1.13_eslint@9.4.0_nuxt@3.11.2_@open_f5so632zhy445pwypmkbyi2hbm/node_modules/@storybook-vue/nuxt/dist/runtime/plugins/storybook").default> &
   InjectionType<typeof import("../../node_modules/.pnpm/nuxt@3.11.2_@opentelemetry+api@1.9.0_@parcel+watcher@2.4.1_@types+node@18.19.34_@unocss+reset_usmzuwo4nueyqwj6hjekjzfi44/node_modules/nuxt/dist/head/runtime/plugins/unhead").default> &
   InjectionType<typeof import("../../node_modules/.pnpm/nuxt@3.11.2_@opentelemetry+api@1.9.0_@parcel+watcher@2.4.1_@types+node@18.19.34_@unocss+reset_usmzuwo4nueyqwj6hjekjzfi44/node_modules/nuxt/dist/app/plugins/router").default> &
   InjectionType<typeof import("../../node_modules/.pnpm/@nuxt+ui@2.16.0_focus-trap@7.5.4_nuxt@3.11.2_@opentelemetry+api@1.9.0_@parcel+watcher@2.4.1_@_4sjzhfxpsbefdca5nmdbex5nom/node_modules/@nuxt/ui/dist/runtime/plugins/slideovers").default> &
@@ -25,7 +24,7 @@ declare module '#app' {
   interface NuxtApp extends NuxtAppInjections { }
 
   interface NuxtAppLiterals {
-    pluginName: 'nuxt:revive-payload:client' | 'storybook-nuxt-plugin' | 'nuxt:head' | 'nuxt:router' | 'nuxt:payload' | 'nuxt:revive-payload:server' | 'nuxt:global-components' | 'nuxt:chunk-reload'
+    pluginName: 'nuxt:revive-payload:client' | 'nuxt:head' | 'nuxt:router' | 'nuxt:payload' | 'nuxt:revive-payload:server' | 'nuxt:global-components' | 'nuxt:chunk-reload'
   }
 }
 
