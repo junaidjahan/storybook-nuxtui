@@ -1,0 +1,1 @@
+export { default } from "file:///Volumes/one/dev/vue/nuxt-storybook-temp/storybook-nuxtui/node_modules/.pnpm/@nuxt+vite-builder@3.11.2_@types+node@20.14.2_rollup@4.18.0_terser@5.31.1_vue@3.4.27/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
